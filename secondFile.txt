@@ -1,7 +1,13 @@
 java 1 
+<<<<<<< HEAD
 java 222
 java 3
 java 444
+=======
+java 22
+java 3
+java 44
+>>>>>>> git_2
 java 5
 java 6
 java 7 
